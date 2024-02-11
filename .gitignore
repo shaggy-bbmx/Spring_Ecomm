@@ -34,3 +34,6 @@ build/
 
 ####applicationproperties#####
 application.properties
+
+####myKey.json#########
+/src/main/java/com/example/spring_react_loginPage/mykey.json
